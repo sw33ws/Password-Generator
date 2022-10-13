@@ -12,7 +12,7 @@ Make a new folder, and than download everything into it. Than open that folder i
 
 # Usage
 
-Go to https://sw33ws.github.io/upgraded-spork/ and link the generate password, then folllow the text on screen to generate your passwrod.
+Go to [here](https://sw33ws.github.io/Password-Generator/) and link the generate password, then folllow the text on screen to generate your passwrod.
 
 # Credits
 
